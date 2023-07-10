@@ -1,7 +1,7 @@
 # macho
 
 <pre>
-  @font-face {
+@font-face {
     font-family: "macho";
     font-weight: normal;
     font-style: normal;
